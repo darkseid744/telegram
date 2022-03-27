@@ -1,7 +1,7 @@
 <?php
 
 /* https://api.telegram.org/5179297865:AAH-wuWP0tra5HnpNwhiyrKdwWaJl6wMrCU/getUpdates,
-где, XXXXXXXXXXXXXXXXXXXXXXX - токен вашего бота, полученный ранее */
+где, 5179297865:AAH-wuWP0tra5HnpNwhiyrKdwWaJl6wMrCU - токен вашего бота, полученный ранее */
 
 $name = $_POST['user_name'];
 $phone = $_POST['user_phone'];
